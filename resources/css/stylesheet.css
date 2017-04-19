@@ -1,0 +1,143 @@
+
+/* Root element css */
+
+.navbar-brand .left{
+	
+}
+.banner-container{
+	background-color: #d9d9d9;
+}
+.banner{
+	display:inline-flex;
+
+
+}
+.left-part{
+	max-width: 50%;
+}
+.right-part{
+	
+	margin-left: 50px;
+	margin-top: 60px;
+}
+.h1{
+  font-size: 5em;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.h2{
+	font-weight: bold;
+	font-size: 2em;
+	font-family: sans-serif;
+}
+
+.left-part img{
+	margin-left: 24px;
+
+}
+
+img{
+	max-width: 100%;
+}
+
+.container{
+	max-width: 100%;
+
+}
+.information{
+	display: inline-flex;
+	background-color: #f2f2f2;
+}
+.information-left{
+	max-width: 45%;
+	margin: 32px 24px 32px 24px;
+}
+.information-left img{
+	margin-bottom: 32px;
+	height: 75%;
+	width: 100%;
+
+}
+.information-right{
+	max-width: 55%;
+	margin: 32px 24px 32px 24px;
+
+}
+.border-right{
+	border-left: 1px solid gray;
+	
+}
+.information-image{
+	display: inline-flex;
+	margin-left: 1em;
+}
+.details{
+	margin-top: 25px;
+	margin-left: 15px;
+}
+.main{
+	font-weight: bold;
+	font-size: 25px;
+	margin-bottom: 8px;
+}
+.submain{
+	font-size: 20px;
+	margin-bottom: 8px;
+}
+.img-deatils{
+	font-weight: bold;
+	font-size: 2.5em;
+	margin-bottom: 24px;
+}
+.data{
+	font-size: 18.2px;
+	font-weight: normal;
+	margin-bottom: 20px;
+}
+.learn{
+	font-size: 2em;
+	text-align: center;
+	padding-top: 32px;
+	margin-bottom: 32px;
+	font-weight: bold;
+}
+.container-course{
+	background-color: #ebebe0;
+}
+.course-section{
+	background-color: white;
+}
+.course-data{
+	margin-top: 16px;
+	margin-left: 16px;
+}
+.course-name{
+	font-size: 2em;
+    margin-bottom: 2em;
+}
+.course{
+	padding-top: 8px;
+	font-size: 1em;
+}
+.course-1{
+	padding-top: 8px;
+	font-size: 1em;
+	padding-bottom: 24px;
+
+}
+.row{
+	margin: 24px 40px 24px 40px;
+}
+.right{
+	margin-left: 8em;
+	margin-top: 3em;
+}
+.thesis{
+	background-color: #f5f5f0;
+}
+blockquote{
+	margin-top: 1em;
+}
+.footer-right{
+	text-align: right;
+}
